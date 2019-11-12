@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.subtitle{
+color: #898f99;
+font-family: Montserrat;
+font-size: 12px;
+font-weight: 700;
+text-transform: uppercase;
+/* Text style for "who we are" */
+letter-spacing: 4.8px;
+margin: 0 auto;
+padding-top: 143px;
+text-align: center;
+
+
+
+
+}
+.title{
+color: #0ec8cb;
+font-family: Montserrat;
+font-size: 48px;
+font-weight: 400;
+text-transform: uppercase;
+letter-spacing: 4.8px;
+
+margin: 0 auto;
+padding-top: 30px;
+text-align: center;
+
+}
+.desc{
+
+    color: #999999;
+    font-family: "PT Sans";
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: uppercase;
+    
+    margin: 0 auto;
+    padding-top: 20px;
+    }
+
+    .b1{
+    
+        background-color: #4CAF50;
+        border: none;
+        color: white;
+        height:20px; 
+        width:100px; 
+        margin: -20px -50px; 
+        position:relative; 
+        top:80px; 
+        left:50%;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+    }
